@@ -1,5 +1,4 @@
-# Personalized-Music-Genres-Using-Classification-Algorithm-FYP
-# 🎵 Final Year Project: Personalized Music Genre Classification
+# 🎵Personalized-Music-Genres-Using-Classification-Algorithm-FYP
 
 ## 📌 Overview
 This project uses **machine learning and deep learning** to classify music genres based on **Spotify 1 Million Tracks Dataset**.
