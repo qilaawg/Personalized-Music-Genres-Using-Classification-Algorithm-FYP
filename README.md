@@ -12,4 +12,5 @@ This project uses **machine learning and deep learning** to classify music genre
 - `code/` → Machine Learning & Deep Learning models.
 - `data/` → Datasets used for training and testing.
 - `notebooks/` → Jupyter Notebooks for experiments.
+- `dashboard/` → https://app.powerbi.com/groups/728f03d9-8830-4140-b8f9-c1532bef969e/reports/bb618dc6-e81a-4730-93be-aa81312e86d8/ReportSection9488cbad2aee87030e6b?experience=power-bi
 
